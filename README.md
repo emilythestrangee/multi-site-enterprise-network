@@ -2,7 +2,6 @@
 
 A fully simulated enterprise network built in **Cisco Packet Tracer**, connecting a Central Headquarters and a Remote Branch office across two Internet Service Providers, secured with a site-to-site IPSec VPN. Designed and implemented as part of the *Data Communications and Networking 2* course at University of Technology Bahrain.
 
-![Network Topology](screenshots/topology-diagram.png)
 
 ## Overview
 
