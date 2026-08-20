@@ -44,5 +44,5 @@ The network follows Cisco's three-tier hierarchical model (**Core, Distribution,
 ## How to Open
 
 1. Download and install [Cisco Packet Tracer](https://www.netacad.com/courses/packet-tracer) (free with a Cisco Networking Academy account).
-2. Open `network-topology.pkt`.
+2. Open `enterprise_network_icpc.pkt`.
 3. Refer to `report/` for full design documentation, configuration explanations, and verification screenshots.
