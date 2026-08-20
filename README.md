@@ -39,17 +39,7 @@ The network follows Cisco's three-tier hierarchical model (**Core, Distribution,
 - IPSec VPN session state verification (ISAKMP + IPSec SAs)
 - DHCP binding verification
 - NAT translation table verification
-
-## Repository Contents
-
-```
-├── README.md
-├── network-topology.pkt          # Cisco Packet Tracer simulation file
-├── report/
-│   └── Multi-Site-Enterprise-Network-OSPF-BGP-VPN-Report.pdf
-└── screenshots/
-    └── topology-diagram.png
-```
+  
 
 ## How to Open
 
